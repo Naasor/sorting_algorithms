@@ -2,7 +2,7 @@
 
 /**
  * insertion_sort_list - function that sorts a doubly linked list
- * 	in ascending order using the Insertion sort algorithm
+ *	in ascending order using the Insertion sort algorithm
  * @list: doubly linked list
  * Return: void
  */
